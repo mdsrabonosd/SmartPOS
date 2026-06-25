@@ -720,17 +720,17 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1117"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=\u0022"},{"Name":"Last-Modified","Value":"Wed, 24 Jun 2026 19:21:15 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/SmartPOS/SmartPOS.bundle.scp.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\SmartPOS.slw8owvyoy.bundle.scp.css'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/SmartPOS/SmartPOS.3367xcwt7y.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\SmartPOS.3367xcwt7y.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-8KCmVF5YBzmXnP\u002B/On3I3O37/GAEjacV4JW1B6XNhnE="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1126"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00228KCmVF5YBzmXnP\u002B/On3I3O37/GAEjacV4JW1B6XNhnE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 24 Jun 2026 19:21:57 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3367xcwt7y"},{"Name":"integrity","Value":"sha256-j8tw1jnq0Cwem4lbRyfi7Ct2s2HZ3nFHJCsWmdhxDF8="},{"Name":"label","Value":"_content/SmartPOS/SmartPOS.bundle.scp.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2257"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022j8tw1jnq0Cwem4lbRyfi7Ct2s2HZ3nFHJCsWmdhxDF8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 25 Jun 2026 17:12:14 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/SmartPOS/SmartPOS.slw8owvyoy.bundle.scp.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\SmartPOS.slw8owvyoy.bundle.scp.css'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/SmartPOS/SmartPOS.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\SmartPOS.3367xcwt7y.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"slw8owvyoy"},{"Name":"integrity","Value":"sha256-8KCmVF5YBzmXnP\u002B/On3I3O37/GAEjacV4JW1B6XNhnE="},{"Name":"label","Value":"_content/SmartPOS/SmartPOS.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1126"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00228KCmVF5YBzmXnP\u002B/On3I3O37/GAEjacV4JW1B6XNhnE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 24 Jun 2026 19:21:57 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-j8tw1jnq0Cwem4lbRyfi7Ct2s2HZ3nFHJCsWmdhxDF8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2257"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022j8tw1jnq0Cwem4lbRyfi7Ct2s2HZ3nFHJCsWmdhxDF8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 25 Jun 2026 17:12:14 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
   </ItemGroup>
 </Project>

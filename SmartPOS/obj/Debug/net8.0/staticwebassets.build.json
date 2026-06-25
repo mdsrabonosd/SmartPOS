@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+EPGc/lCDUOIw0IJLo7fMp4v5hfNIOcIlQPpz0BElPQ=",
+  "Hash": "EOubDDQC0Mk6ev1nOwfhX31PewqC7qicvZgLSLe5VT0=",
   "Source": "SmartPOS",
   "BasePath": "_content/SmartPOS",
   "Mode": "Default",
@@ -1291,8 +1291,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "slw8owvyoy",
-      "Integrity": "8KCmVF5YBzmXnP+/On3I3O37/GAEjacV4JW1B6XNhnE=",
+      "Fingerprint": "3367xcwt7y",
+      "Integrity": "j8tw1jnq0Cwem4lbRyfi7Ct2s2HZ3nFHJCsWmdhxDF8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\user\\source\\repos\\SmartPOS\\SmartPOS\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SmartPOS.styles.css"
@@ -1312,8 +1312,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "slw8owvyoy",
-      "Integrity": "8KCmVF5YBzmXnP+/On3I3O37/GAEjacV4JW1B6XNhnE=",
+      "Fingerprint": "3367xcwt7y",
+      "Integrity": "j8tw1jnq0Cwem4lbRyfi7Ct2s2HZ3nFHJCsWmdhxDF8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\user\\source\\repos\\SmartPOS\\SmartPOS\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SmartPOS.bundle.scp.css"
@@ -9721,6 +9721,96 @@
       ]
     },
     {
+      "Route": "SmartPOS.3367xcwt7y.bundle.scp.css",
+      "AssetFile": "C:\\Users\\user\\source\\repos\\SmartPOS\\SmartPOS\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SmartPOS.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2257"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j8tw1jnq0Cwem4lbRyfi7Ct2s2HZ3nFHJCsWmdhxDF8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 25 Jun 2026 17:12:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3367xcwt7y"
+        },
+        {
+          "Name": "label",
+          "Value": "SmartPOS.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-j8tw1jnq0Cwem4lbRyfi7Ct2s2HZ3nFHJCsWmdhxDF8="
+        }
+      ]
+    },
+    {
+      "Route": "SmartPOS.3367xcwt7y.styles.css",
+      "AssetFile": "C:\\Users\\user\\source\\repos\\SmartPOS\\SmartPOS\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SmartPOS.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2257"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j8tw1jnq0Cwem4lbRyfi7Ct2s2HZ3nFHJCsWmdhxDF8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 25 Jun 2026 17:12:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3367xcwt7y"
+        },
+        {
+          "Name": "label",
+          "Value": "SmartPOS.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-j8tw1jnq0Cwem4lbRyfi7Ct2s2HZ3nFHJCsWmdhxDF8="
+        }
+      ]
+    },
+    {
       "Route": "SmartPOS.bundle.scp.css",
       "AssetFile": "C:\\Users\\user\\source\\repos\\SmartPOS\\SmartPOS\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SmartPOS.bundle.scp.css",
       "Selectors": [],
@@ -9731,7 +9821,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1126"
+          "Value": "2257"
         },
         {
           "Name": "Content-Type",
@@ -9739,11 +9829,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8KCmVF5YBzmXnP+/On3I3O37/GAEjacV4JW1B6XNhnE=\""
+          "Value": "\"j8tw1jnq0Cwem4lbRyfi7Ct2s2HZ3nFHJCsWmdhxDF8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 24 Jun 2026 19:21:57 GMT"
+          "Value": "Thu, 25 Jun 2026 17:12:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9753,97 +9843,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-8KCmVF5YBzmXnP+/On3I3O37/GAEjacV4JW1B6XNhnE="
-        }
-      ]
-    },
-    {
-      "Route": "SmartPOS.slw8owvyoy.bundle.scp.css",
-      "AssetFile": "C:\\Users\\user\\source\\repos\\SmartPOS\\SmartPOS\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SmartPOS.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1126"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8KCmVF5YBzmXnP+/On3I3O37/GAEjacV4JW1B6XNhnE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 24 Jun 2026 19:21:57 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "slw8owvyoy"
-        },
-        {
-          "Name": "label",
-          "Value": "SmartPOS.bundle.scp.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-8KCmVF5YBzmXnP+/On3I3O37/GAEjacV4JW1B6XNhnE="
-        }
-      ]
-    },
-    {
-      "Route": "SmartPOS.slw8owvyoy.styles.css",
-      "AssetFile": "C:\\Users\\user\\source\\repos\\SmartPOS\\SmartPOS\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SmartPOS.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1126"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8KCmVF5YBzmXnP+/On3I3O37/GAEjacV4JW1B6XNhnE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 24 Jun 2026 19:21:57 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "slw8owvyoy"
-        },
-        {
-          "Name": "label",
-          "Value": "SmartPOS.styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-8KCmVF5YBzmXnP+/On3I3O37/GAEjacV4JW1B6XNhnE="
+          "Value": "sha256-j8tw1jnq0Cwem4lbRyfi7Ct2s2HZ3nFHJCsWmdhxDF8="
         }
       ]
     },
@@ -9858,7 +9858,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1126"
+          "Value": "2257"
         },
         {
           "Name": "Content-Type",
@@ -9866,11 +9866,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8KCmVF5YBzmXnP+/On3I3O37/GAEjacV4JW1B6XNhnE=\""
+          "Value": "\"j8tw1jnq0Cwem4lbRyfi7Ct2s2HZ3nFHJCsWmdhxDF8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 24 Jun 2026 19:21:57 GMT"
+          "Value": "Thu, 25 Jun 2026 17:12:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9880,7 +9880,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-8KCmVF5YBzmXnP+/On3I3O37/GAEjacV4JW1B6XNhnE="
+          "Value": "sha256-j8tw1jnq0Cwem4lbRyfi7Ct2s2HZ3nFHJCsWmdhxDF8="
         }
       ]
     }

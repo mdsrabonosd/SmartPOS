@@ -155,3 +155,4 @@ C:\Users\user\source\repos\SmartPOS\SmartPOS\obj\Debug\net8.0\refint\SmartPOS.dl
 C:\Users\user\source\repos\SmartPOS\SmartPOS\obj\Debug\net8.0\SmartPOS.pdb
 C:\Users\user\source\repos\SmartPOS\SmartPOS\obj\Debug\net8.0\SmartPOS.genruntimeconfig.cache
 C:\Users\user\source\repos\SmartPOS\SmartPOS\obj\Debug\net8.0\ref\SmartPOS.dll
+C:\Users\user\source\repos\SmartPOS\SmartPOS\obj\Debug\net8.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
