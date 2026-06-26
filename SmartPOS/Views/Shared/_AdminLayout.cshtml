@@ -20,18 +20,19 @@
             display: flex;
             align-items: stretch;
         }
+
         #sidebar {
             min-width: 260px;
             max-width: 260px;
             min-height: 100vh;
-            background: #1e293b; 
+            background: #1e293b;
             color: #94a3b8;
             transition: all 0.3s;
         }
 
             #sidebar .sidebar-header {
                 padding: 24px;
-                background: #0f172a; 
+                background: #0f172a;
                 color: #fff;
                 font-size: 1.25rem;
                 font-weight: 700;
@@ -67,13 +68,14 @@
                 color: #fff;
                 border-left: 4px solid #38bdf8;
             }
+
         .top-navbar {
             background: #fff;
             padding: 15px 30px;
             border-bottom: 1px solid #e2e8f0;
             box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.05);
         }
-        
+
         #content {
             width: 100%;
             min-height: 100vh;
@@ -85,6 +87,7 @@
             padding: 30px;
             flex: 1;
         }
+
         .card-custom {
             background: #fff;
             border: none;
@@ -114,11 +117,13 @@
                         <i class="fa-solid fa-tags"></i> Categories
                     </a>
                 </li>
+                
                 <li>
-                    <a href="#">
+                    <a asp-controller="Products" asp-action="Index">
                         <i class="fa-solid fa-box"></i> Products
                     </a>
                 </li>
+                
                 <li>
                     <a href="#">
                         <i class="fa-solid fa-cart-shopping"></i> POS Terminal
