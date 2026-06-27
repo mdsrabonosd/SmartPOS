@@ -3,52 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\SmartPOS\\SmartPOS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8D6045CB-EB04-4AAC-8B92-C7BF773CF50A}|SmartPOS.csproj|c:\\users\\user\\source\\repos\\smartpos\\smartpos\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8D6045CB-EB04-4AAC-8B92-C7BF773CF50A}|SmartPOS.csproj|solutionrelative:views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8D6045CB-EB04-4AAC-8B92-C7BF773CF50A}|SmartPOS.csproj|c:\\users\\user\\source\\repos\\smartpos\\smartpos\\views\\sales\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D6045CB-EB04-4AAC-8B92-C7BF773CF50A}|SmartPOS.csproj|solutionrelative:views\\sales\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D6045CB-EB04-4AAC-8B92-C7BF773CF50A}|SmartPOS.csproj|c:\\users\\user\\source\\repos\\smartpos\\smartpos\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D6045CB-EB04-4AAC-8B92-C7BF773CF50A}|SmartPOS.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D6045CB-EB04-4AAC-8B92-C7BF773CF50A}|SmartPOS.csproj|c:\\users\\user\\source\\repos\\smartpos\\smartpos\\views\\sales\\invoice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D6045CB-EB04-4AAC-8B92-C7BF773CF50A}|SmartPOS.csproj|solutionrelative:views\\sales\\invoice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D6045CB-EB04-4AAC-8B92-C7BF773CF50A}|SmartPOS.csproj|c:\\users\\user\\source\\repos\\smartpos\\smartpos\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8D6045CB-EB04-4AAC-8B92-C7BF773CF50A}|SmartPOS.csproj|solutionrelative:views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D6045CB-EB04-4AAC-8B92-C7BF773CF50A}|SmartPOS.csproj|c:\\users\\user\\source\\repos\\smartpos\\smartpos\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8D6045CB-EB04-4AAC-8B92-C7BF773CF50A}|SmartPOS.csproj|solutionrelative:views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D6045CB-EB04-4AAC-8B92-C7BF773CF50A}|SmartPOS.csproj|c:\\users\\user\\source\\repos\\smartpos\\smartpos\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8D6045CB-EB04-4AAC-8B92-C7BF773CF50A}|SmartPOS.csproj|solutionrelative:views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D6045CB-EB04-4AAC-8B92-C7BF773CF50A}|SmartPOS.csproj|c:\\users\\user\\source\\repos\\smartpos\\smartpos\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D6045CB-EB04-4AAC-8B92-C7BF773CF50A}|SmartPOS.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D6045CB-EB04-4AAC-8B92-C7BF773CF50A}|SmartPOS.csproj|c:\\users\\user\\source\\repos\\smartpos\\smartpos\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8D6045CB-EB04-4AAC-8B92-C7BF773CF50A}|SmartPOS.csproj|solutionrelative:views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D6045CB-EB04-4AAC-8B92-C7BF773CF50A}|SmartPOS.csproj|c:\\users\\user\\source\\repos\\smartpos\\smartpos\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8D6045CB-EB04-4AAC-8B92-C7BF773CF50A}|SmartPOS.csproj|solutionrelative:views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D6045CB-EB04-4AAC-8B92-C7BF773CF50A}|SmartPOS.csproj|c:\\users\\user\\source\\repos\\smartpos\\smartpos\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8D6045CB-EB04-4AAC-8B92-C7BF773CF50A}|SmartPOS.csproj|solutionrelative:views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D6045CB-EB04-4AAC-8B92-C7BF773CF50A}|SmartPOS.csproj|c:\\users\\user\\source\\repos\\smartpos\\smartpos\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D6045CB-EB04-4AAC-8B92-C7BF773CF50A}|SmartPOS.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D6045CB-EB04-4AAC-8B92-C7BF773CF50A}|SmartPOS.csproj|c:\\users\\user\\source\\repos\\smartpos\\smartpos\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D6045CB-EB04-4AAC-8B92-C7BF773CF50A}|SmartPOS.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D6045CB-EB04-4AAC-8B92-C7BF773CF50A}|SmartPOS.csproj|c:\\users\\user\\source\\repos\\smartpos\\smartpos\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8D6045CB-EB04-4AAC-8B92-C7BF773CF50A}|SmartPOS.csproj|solutionrelative:areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8D6045CB-EB04-4AAC-8B92-C7BF773CF50A}|SmartPOS.csproj|c:\\users\\user\\source\\repos\\smartpos\\smartpos\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6045CB-EB04-4AAC-8B92-C7BF773CF50A}|SmartPOS.csproj|solutionrelative:controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,152 +30,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SmartPOS\\SmartPOS\\Views\\Products\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Views\\Products\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\SmartPOS\\SmartPOS\\Views\\Products\\Delete.cshtml",
-              "RelativeToolTip": "Views\\Products\\Delete.cshtml",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAmwA8AAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-27T18:11:52.099Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SmartPOS\\SmartPOS\\Views\\Products\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Products\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\SmartPOS\\SmartPOS\\Views\\Products\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Products\\Edit.cshtml",
-              "ViewState": "AgIAACwAAAAAAAAAAAAowEkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-27T17:59:08.994Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SmartPOS\\SmartPOS\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\SmartPOS\\SmartPOS\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "Controllers\\ProductsController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAwwBsAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-25T18:17:58.836Z",
+              "Title": "Invoice.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SmartPOS\\SmartPOS\\Views\\Sales\\Invoice.cshtml",
+              "RelativeDocumentMoniker": "Views\\Sales\\Invoice.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SmartPOS\\SmartPOS\\Views\\Sales\\Invoice.cshtml",
+              "RelativeToolTip": "Views\\Sales\\Invoice.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-27T19:00:32.837Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SmartPOS\\SmartPOS\\Views\\Products\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Products\\Create.cshtml",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\SmartPOS\\SmartPOS\\Views\\Products\\Create.cshtml",
-              "RelativeToolTip": "Views\\Products\\Create.cshtml",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAACkAAABqAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SmartPOS\\SmartPOS\\Views\\Sales\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Sales\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SmartPOS\\SmartPOS\\Views\\Sales\\Create.cshtml",
+              "RelativeToolTip": "Views\\Sales\\Create.cshtml",
+              "ViewState": "AgIAAOgAAAAAAAAAAAAmwPQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-26T18:44:47.494Z",
+              "WhenOpened": "2026-06-27T18:39:46.457Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SmartPOS\\SmartPOS\\Views\\Categories\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Categories\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\SmartPOS\\SmartPOS\\Views\\Categories\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Categories\\Edit.cshtml",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAowCsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-25T17:29:24.874Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SmartPOS\\SmartPOS\\Views\\Categories\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Categories\\Create.cshtml",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\SmartPOS\\SmartPOS\\Views\\Categories\\Create.cshtml",
-              "RelativeToolTip": "Views\\Categories\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-25T17:22:59.543Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SmartPOS\\SmartPOS\\Views\\Products\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Products\\Index.cshtml",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\SmartPOS\\SmartPOS\\Views\\Products\\Index.cshtml",
-              "RelativeToolTip": "Views\\Products\\Index.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAADEAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-26T18:59:34.044Z",
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SmartPOS\\SmartPOS\\Controllers\\SalesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SalesController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SmartPOS\\SmartPOS\\Controllers\\SalesController.cs",
+              "RelativeToolTip": "Controllers\\SalesController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAmwE8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T18:36:07.215Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_AdminLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SmartPOS\\SmartPOS\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_AdminLayout.cshtml",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\SmartPOS\\SmartPOS\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_AdminLayout.cshtml",
-              "ViewState": "AgIAAG4AAAAAAAAAAAAmwHcAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-26T18:40:00.85Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SmartPOS\\SmartPOS\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\SmartPOS\\SmartPOS\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAcwFMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-25T17:01:36.4Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SmartPOS\\SmartPOS\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\SmartPOS\\SmartPOS\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-24T20:03:43.795Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SmartPOS\\SmartPOS\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\SmartPOS\\SmartPOS\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-24T19:23:06.028Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SmartPOS\\SmartPOS\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Models\\Category.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\SmartPOS\\SmartPOS\\Models\\Category.cs",
-              "RelativeToolTip": "Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-24T19:23:01.719Z"
             }
           ]
         }
