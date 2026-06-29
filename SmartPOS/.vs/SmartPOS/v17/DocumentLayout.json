@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\SmartPOS\\SmartPOS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8D6045CB-EB04-4AAC-8B92-C7BF773CF50A}|SmartPOS.csproj|c:\\users\\user\\source\\repos\\smartpos\\smartpos\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6045CB-EB04-4AAC-8B92-C7BF773CF50A}|SmartPOS.csproj|solutionrelative:controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8D6045CB-EB04-4AAC-8B92-C7BF773CF50A}|SmartPOS.csproj|c:\\users\\user\\source\\repos\\smartpos\\smartpos\\views\\sales\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8D6045CB-EB04-4AAC-8B92-C7BF773CF50A}|SmartPOS.csproj|solutionrelative:views\\sales\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8D6045CB-EB04-4AAC-8B92-C7BF773CF50A}|SmartPOS.csproj|c:\\users\\user\\source\\repos\\smartpos\\smartpos\\views\\sales\\invoice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8D6045CB-EB04-4AAC-8B92-C7BF773CF50A}|SmartPOS.csproj|solutionrelative:views\\sales\\invoice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D6045CB-EB04-4AAC-8B92-C7BF773CF50A}|SmartPOS.csproj|c:\\users\\user\\source\\repos\\smartpos\\smartpos\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D6045CB-EB04-4AAC-8B92-C7BF773CF50A}|SmartPOS.csproj|solutionrelative:controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +30,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Invoice.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SmartPOS\\SmartPOS\\Views\\Sales\\Invoice.cshtml",
               "RelativeDocumentMoniker": "Views\\Sales\\Invoice.cshtml",
@@ -42,28 +42,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SmartPOS\\SmartPOS\\Views\\Sales\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Sales\\Create.cshtml",
               "ToolTip": "C:\\Users\\user\\source\\repos\\SmartPOS\\SmartPOS\\Views\\Sales\\Create.cshtml",
               "RelativeToolTip": "Views\\Sales\\Create.cshtml",
-              "ViewState": "AgIAAM0AAAAAAAAAAAAmwNQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-06-27T18:39:46.457Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "SalesController.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SmartPOS\\SmartPOS\\Controllers\\SalesController.cs",
               "RelativeDocumentMoniker": "Controllers\\SalesController.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\SmartPOS\\SmartPOS\\Controllers\\SalesController.cs",
               "RelativeToolTip": "Controllers\\SalesController.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAmwE8AAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-27T18:36:07.215Z"
+              "WhenOpened": "2026-06-27T18:36:07.215Z",
+              "EditorCaption": ""
             }
           ]
         }
