@@ -38,8 +38,7 @@
               "RelativeToolTip": "Views\\Sales\\Invoice.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-27T19:00:32.837Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-27T19:00:32.837Z"
             },
             {
               "$type": "Document",
@@ -49,7 +48,7 @@
               "RelativeDocumentMoniker": "Views\\Sales\\Create.cshtml",
               "ToolTip": "C:\\Users\\user\\source\\repos\\SmartPOS\\SmartPOS\\Views\\Sales\\Create.cshtml",
               "RelativeToolTip": "Views\\Sales\\Create.cshtml",
-              "ViewState": "AgIAAO4AAAAAAAAAAAAmwPQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAM0AAAAAAAAAAAAmwNQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-06-27T18:39:46.457Z",
               "EditorCaption": ""
@@ -64,8 +63,7 @@
               "RelativeToolTip": "Controllers\\SalesController.cs",
               "ViewState": "AgIAAEsAAAAAAAAAAAAmwE8AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-27T18:36:07.215Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-27T18:36:07.215Z"
             }
           ]
         }
